@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3d99ff34.css",
+    "main.js": "/portfolio/static/js/main.bd9aa70a.js",
+    "static/media/money.png": "/portfolio/static/media/money.6ef50c6e3963d21d8009.png",
+    "static/media/recepie.png": "/portfolio/static/media/recepie.808a3b2637f06ddd6154.png",
+    "static/media/htmproj.png": "/portfolio/static/media/htmproj.216ced1734073007f55c.png",
+    "static/media/weather.png": "/portfolio/static/media/weather.677a1cb29f1b6d1e4a79.png",
+    "static/media/film.png": "/portfolio/static/media/film.2ea88e98a3bde22b8aa2.png",
+    "static/media/telbook.png": "/portfolio/static/media/telbook.b971c1694fd013be0e34.png",
+    "static/media/iceCream.png": "/portfolio/static/media/iceCream.737a81e7e211d44672f4.png",
+    "static/media/redux.png": "/portfolio/static/media/redux.010fcccb3cd77a85a1f7.png",
+    "static/media/minesweeper.png": "/portfolio/static/media/minesweeper.094cf004750d45c0f5f3.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/logo1.png": "/portfolio/static/media/logo1.b9bfbaf18c49a1fa4b7a.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.3d99ff34.css.map": "/portfolio/static/css/main.3d99ff34.css.map",
+    "main.bd9aa70a.js.map": "/portfolio/static/js/main.bd9aa70a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d99ff34.css",
+    "static/js/main.bd9aa70a.js"
+  ]
+}
