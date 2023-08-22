@@ -14,14 +14,14 @@ const About = () => {
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold">
             <p>
-              Hi. I'm Vadym Shylov, nice to meet you. Please take a look around.
+              Hey, I'm Vadym , nice to e-meet you. Please take a look around.
             </p>
           </div>
           <div>
             <p>
-              I`m Junior Front-End Developer and also I passionate about
+              I`m a Junior Front-End Developer who`s  passionate about
               building excellent software that improves the lives of those
-              around meI am an passionate Front-End developer with knowledge of
+              around. I`am succeed  Front-End developer with knowledge of
               HTML, CSS, JavaScript and React. I thrive in challenging and
               dynamic environments where I can help make a positive difference
               to both everyday life and business with my creative
